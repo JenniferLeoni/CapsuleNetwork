@@ -38,4 +38,4 @@ on models:
 A Discord bot classifies user messages in real-time and assists admins in moderation decisions.
 
 ## Models trained
-[Google Drive: Trained Models]([https://github.com/JenniferLeoni/CapsuleNetwork](https://drive.google.com/drive/folders/1Ppw4faB6vvEXdTeiGOzdwFiv4zW58GGQ?usp=sharing))
+[Google Drive: Trained Models](https://drive.google.com/drive/folders/1Ppw4faB6vvEXdTeiGOzdwFiv4zW58GGQ?usp=sharing)
